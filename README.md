@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Peter!
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Petar!
+- 🌱 99/100% to completing the comprehensive Full Stack Python roadmap at SoftUni
